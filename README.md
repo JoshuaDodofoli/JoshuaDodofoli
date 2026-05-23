@@ -11,7 +11,7 @@ I'm a final-year Computer Science student @ KNUST. I do frontend development, de
 
 ## My Tech Stack
 
-I build web experiences using:
+I build web:
 
 *   **Frameworks:** Next.js & [Astro](https://astro.build/) (with TypeScript)
 *   **Animation:** Framer Motion & GSAP *(I lean towards Framer Motion for its declarative nature!)*
