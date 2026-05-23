@@ -1,10 +1,10 @@
 ### Hello, I'm Joshua 👋
----
+--
 
 I'm a final year student @ KNUST.  I do frontend devlopment, design & animation, specialising in CMS driven & animation heavy websites.
+
 Currently building [paper-bound](https://github.com/JoshuaDodofoli/paper-bound)
 I’m currently learning graphql. And I'm yet to learn python as well.
----
 
 ### My stack
 ---
