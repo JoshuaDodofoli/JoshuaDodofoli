@@ -1,6 +1,6 @@
 ## Hello, I'm Joshua 👋
 
-I'm a final-year Computer Science student @ KNUST. I do frontend development, design, and animation, specializing in CMS-driven and animation-heavy websites.
+I'm a final-year Computer Science student @ KNUST. I do frontend development, design, and animation, specializing in CMS-driven, API-integration and animation-heavy websites.
 
 *   **Currently building:** [paper-bound](https://github.com/JoshuaDodofoli/paper-bound)
 *   **Currently learning:** GraphQL & Python
