@@ -6,7 +6,7 @@ Currently building [paper-bound](https://github.com/JoshuaDodofoli/paper-bound)
 I’m currently learning graphql. And I'm yet to learn python as well.
 ---
 
-###My stack
+### My stack
 ---
 I build with:
 - Next js(sometimes with [Astro](https://astro.build/) with Typescript.
