@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science student @ KNUST. I do frontend development, design, and animation, specializing in CMS-driven, API-integration and animation-heavy websites.
 
-*   **Currently building:** [paper-bound](https://github.com/JoshuaDodofoli/paper-bound)
+*   **Currently building:** [paper-bound](https://github.com/JoshuaDodofoli/paper-bound) and [Papyrbound](https://github.com/Papyrbound/papyrbound-frontend)
 *   **Currently learning:** GraphQL
 
 ## My Tech Stack
