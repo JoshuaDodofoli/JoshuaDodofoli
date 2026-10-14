@@ -3,7 +3,7 @@
 I'm a final-year Computer Science student @ KNUST. I do frontend development, design, and animation, specializing in CMS-driven, API-integration and animation-heavy websites.
 
 *   **Currently building:** [paper-bound](https://github.com/JoshuaDodofoli/paper-bound)
-*   **Currently learning:** GraphQL & Python
+*   **Currently learning:** GraphQL
 
 ## My Tech Stack
 
@@ -12,7 +12,7 @@ I build web:
 *   **Frameworks:** Next.js & [Astro](https://astro.build/) (with TypeScript)
 *   **Animation:** Framer Motion & GSAP *(I lean towards Framer Motion for its declarative nature!)*
 *   **Styling:** Tailwind CSS
-*   **Design:** Figma
+*   **Design:** Figma & Penpot
 <!--
 **JoshuaDodofoli/JoshuaDodofoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
